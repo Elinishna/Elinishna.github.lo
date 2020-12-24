@@ -1,0 +1,21 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+    color: olive;
+}
+h1{
+    color: midnightblue;
+    font-style: italic;
+}
+h3, h4{
+    color: teal;
+    font-style: oblique;
+}
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: tomato;
+}
+p{
+    color: rgb(250, 11, 170);
+}
+a{color: black;}
